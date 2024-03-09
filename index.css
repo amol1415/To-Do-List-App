@@ -20,8 +20,8 @@ body{
 
  }
  button{
-    width: 60px;
-    height: 41px;
+    width: 62px;
+    height: 42px;
     background-color: rgb(4, 29, 29);
     color: white;
     border: none;
@@ -33,7 +33,7 @@ body{
  }
  .text ul{
     position: relative;
-    background-color: rgb(5, 31, 31);
+    background-color: rgb(39, 54, 54);
     color: white;
     font-size: 19px;
     padding: 7px;
